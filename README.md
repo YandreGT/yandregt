@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/yandregt)
 
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/yandregt) 
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/yandregt)    
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/yandregt)
+
+[![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/yandregt)   
+   
 ### OS
 [![Apple](https://img.shields.io/badge/apple-black?style=for-the-badge&logo=Apple)](https://github.com/yandregt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/yandregt)   
