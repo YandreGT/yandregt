@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Lenguajes de programación
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/yandregt)
    
-### Frameworks
+### Tecnologías & Frameworks
 [![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/yandregt)
 [![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/yandregt)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/yandregt)
